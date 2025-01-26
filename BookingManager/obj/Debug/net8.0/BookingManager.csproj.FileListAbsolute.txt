@@ -1,0 +1,17 @@
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\appsettings.json
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\BookingManager.exe
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\BookingManager.deps.json
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\BookingManager.runtimeconfig.json
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\BookingManager.dll
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\BookingManager.pdb
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.AssemblyInfoInputs.cache
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.AssemblyInfo.cs
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.csproj.CoreCompileInputs.cache
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.dll
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\refint\BookingManager.dll
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.pdb
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\BookingManager.genruntimeconfig.cache
+C:\Users\vital\source\repos\BookingManager\BookingManager\obj\Debug\net8.0\ref\BookingManager.dll
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\Resources\bookings.json
+C:\Users\vital\source\repos\BookingManager\BookingManager\bin\Debug\net8.0\Resources\hotels.json
